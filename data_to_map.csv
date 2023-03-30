@@ -1,0 +1,383 @@
+,price,os,brand,series,model,phone,capacity,condition,battery,warranty,reviews,warranty_num,os_num,condition_num,brand_num,phone_num
+0,399,IOS,apple,iPhone,11,iPhone 11,128,Heavily used,77,no,2000,0,1,1,0,91
+1,1080,IOS,apple,iPhone,14,iPhone 14,128,Brand new,93,no,2000,0,1,0,0,101
+2,580,IOS,apple,iPhone,11 pro,iPhone 11 pro,256,Lightly used,85,no,9,0,1,2,0,93
+3,1048,IOS,apple,iPhone,13 Pro,iPhone 13 Pro,256,Well used,83,no,4739,0,1,4,0,99
+4,298,IOS,apple,iPhone,X,iPhone X,256,Like new,85,no,830,0,1,3,0,109
+5,750,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,448,Like new,93,no,15,0,1,3,0,92
+6,1200,IOS,apple,iPhone,14,iPhone 14,128,Like new,93,no,82,0,1,3,0,101
+7,1850,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Brand new,93,no,2,0,1,0,0,103
+8,1690,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Brand new,93,no,898,0,1,0,0,103
+9,1166,IOS,apple,iPhone,14,iPhone 14,128,Brand new,93,no,2000,0,1,0,0,101
+10,1068,IOS,apple,iPhone,13 Pro,iPhone 13 Pro,128,Well used,83,no,4739,0,1,4,0,99
+11,1100,IOS,apple,iPhone,14,iPhone 14,128,Brand new,93,no,18,0,1,0,0,101
+12,330,IOS,apple,iPhone, XR,iPhone  XR,128,Like new,85,no,121,0,1,3,0,90
+13,1268,IOS,apple,iPhone,13 Pro Max,iPhone 13 Pro Max,256,Well used,83,no,4739,0,1,4,0,100
+14,1138,IOS,apple,iPhone,13 Pro,iPhone 13 Pro,256,Well used,77,no,4739,0,1,4,0,99
+15,305,IOS,apple,iPhone,XS,iPhone XS,64,Like new,85,no,174,0,1,3,0,110
+16,589,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,64,Well used,83,no,174,0,1,4,0,92
+17,189,IOS,apple,iPhone,7 Plus,iPhone 7 Plus,128,Well used,83,no,174,0,1,4,0,106
+18,55,IOS,apple,iPhone,4,iPhone 4,32,Well used,83,no,81,0,1,4,0,104
+19,1020,IOS,apple,iPhone,14,iPhone 14,128,Brand new,93,no,2000,0,1,0,0,101
+20,610,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,256,Well used,83,no,174,0,1,4,0,92
+21,534,IOS,apple,iPhone,12,iPhone 12,64,Well used,83,no,174,0,1,4,0,94
+22,708,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,256,Well used,83,no,4739,0,1,4,0,92
+23,1158,IOS,apple,iPhone,13 Pro Max,iPhone 13 Pro Max,128,Brand new,93,no,272,0,1,0,0,100
+24,369,IOS,apple,iPhone,XS Max,iPhone XS Max,64,Lightly used,85,no,174,0,1,2,0,111
+25,436,IOS,apple,iPhone,11,iPhone 11,256,Well used,83,no,174,0,1,4,0,91
+26,1088,IOS,apple,iPhone,14,iPhone 14,128,Brand new,93,no,272,0,1,0,0,101
+27,300,IOS,apple,iPhone,XS,iPhone XS,64,Well used,83,no,174,0,1,4,0,110
+28,549,IOS,apple,iPhone,12 Mini,iPhone 12 Mini,128,Well used,83,no,174,0,1,4,0,95
+29,1258,IOS,apple,iPhone,13 Pro Max,iPhone 13 Pro Max,256,Brand new,93,no,272,0,1,0,0,100
+30,460,IOS,apple,iPhone,12 Mini,iPhone 12 Mini,64,Like new,85,no,22,0,1,3,0,95
+31,754,IOS,apple,iPhone,12 Pro,iPhone 12 Pro,256,Well used,83,no,174,0,1,4,0,96
+32,489,IOS,apple,iPhone,XS Max,iPhone XS Max,448,Well used,83,no,174,0,1,4,0,111
+33,1088,IOS,apple,iPhone,13 Pro,iPhone 13 Pro,128,Well used,83,no,4739,0,1,4,0,99
+34,604,IOS,apple,iPhone,12,iPhone 12,128,Well used,83,no,174,0,1,4,0,94
+35,825,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,174,0,1,4,0,97
+36,858,IOS,apple,iPhone,13,iPhone 13,128,Well used,83,no,272,0,1,4,0,98
+37,174,IOS,apple,iPhone,7,iPhone 7,128,Well used,83,no,174,0,1,4,0,105
+38,439,IOS,apple,iPhone,11,iPhone 11,128,Well used,83,no,174,0,1,4,0,91
+39,1470,IOS,apple,iPhone,14,iPhone 14,448,Brand new,93,no,2000,0,1,0,0,101
+40,568,IOS,apple,iPhone,12,iPhone 12,64,Well used,83,no,4739,0,1,4,0,94
+41,814,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,128,Well used,83,no,174,0,1,4,0,97
+42,710,IOS,apple,iPhone,12 Pro,iPhone 12 Pro,128,Well used,83,no,174,0,1,4,0,96
+43,1520,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,128,Brand new,93,no,2000,0,1,0,0,103
+44,1238,IOS,apple,iPhone,13 Pro Max,iPhone 13 Pro Max,256,Well used,83,no,4739,0,1,4,0,100
+45,634,IOS,apple,iPhone,12,iPhone 12,256,Well used,83,no,174,0,1,4,0,94
+46,1450,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,128,Brand new,93,no,2000,0,1,0,0,103
+47,618,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,64,Well used,77,no,4739,0,1,4,0,92
+48,292,IOS,apple,iPhone,X,iPhone X,64,Well used,83,no,174,0,1,4,0,109
+49,250,IOS,apple,iPhone,X,iPhone X,64,Well used,83,no,37,0,1,4,0,109
+50,604,IOS,apple,iPhone,12,iPhone 12,128,Well used,83,no,174,0,1,4,0,94
+51,749,IOS,apple,iPhone,12 Pro,iPhone 12 Pro,256,Well used,83,no,174,0,1,4,0,96
+52,698,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,256,Well used,83,no,4739,0,1,4,0,92
+53,909,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Lightly used,85,yes,2000,1,0,2,3,30
+54,188,Android,samsung,Galaxy S,9,Galaxy S 9,64,Like new,85,no,4739,0,0,3,3,27
+55,859,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,Like new,85,yes,2000,1,0,3,3,30
+56,208,Android,samsung,Galaxy S,9,Galaxy S 9,64,Like new,85,no,4739,0,0,3,3,27
+57,939,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Like new,85,yes,2000,1,0,3,3,30
+58,199,Android,samsung,Galaxy A,A32,Galaxy A A32,128,Like new,85,no,916,0,0,3,3,10
+59,1150,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Brand new,93,no,10,0,0,0,3,30
+60,180,Android,samsung,Galaxy S,8,Galaxy S 8,64,Well used,83,no,28,0,0,4,3,26
+61,1350,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,Brand new,93,no,8,0,0,0,3,25
+62,241,Android,samsung,Galaxy A,A 23,Galaxy A A 23,128,Brand new,93,no,573,0,0,0,3,8
+63,198,Android,samsung,Galaxy S,9,Galaxy S 9,64,Like new,85,no,4739,0,0,3,3,27
+64,565,Android,samsung,Galaxy Note,20,Galaxy Note 20,256,Lightly used,85,no,174,0,0,2,3,14
+65,554,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,174,0,0,3,3,21
+66,1509,Android,samsung,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,Lightly used,85,yes,2000,1,0,2,3,32
+67,1033,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,85,no,174,0,0,3,3,24
+68,609,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,85,no,348,0,0,3,3,22
+69,512,Android,samsung,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,Well used,83,no,174,0,0,4,3,29
+70,1550,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,448,Brand new,93,no,898,0,0,0,3,25
+71,620,Android,samsung,Galaxy S,21,Galaxy S 21,256,Well used,83,no,16,0,0,4,3,20
+72,394,Android,samsung,Galaxy S,20 FE,Galaxy S 20 FE,256,Lightly used,85,no,174,0,0,2,3,19
+73,228,Android,samsung,Galaxy S,9 Plus,Galaxy S 9 Plus,128,Like new,85,no,4739,0,0,3,3,28
+74,565,Android,samsung,Galaxy Note,20,Galaxy Note 20,256,Lightly used,85,no,174,0,0,2,3,14
+75,550,Android,samsung,Galaxy S,21,Galaxy S 21,256,Well used,83,no,6,0,0,4,3,20
+76,391,Android,samsung,Galaxy S,20 FE,Galaxy S 20 FE,256,Well used,83,no,174,0,0,4,3,19
+77,400,Android,samsung,Galaxy Note,20,Galaxy Note 20,256,Lightly used,85,no,28,0,0,2,3,14
+78,1018,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,85,no,4739,0,0,3,3,24
+79,500,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,1000,0,0,3,3,21
+80,241,Android,samsung,Galaxy A,A23,Galaxy A A23,128,Brand new,93,no,573,0,0,0,3,9
+81,503,Android,samsung,Galaxy S,21,Galaxy S 21,256,Like new,85,no,174,0,0,3,3,20
+82,549,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Lightly used,85,no,174,0,0,2,3,21
+83,350,Android,samsung,Galaxy Note,10,Galaxy Note 10,256,Lightly used,85,no,174,0,0,2,3,12
+84,558,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,4739,0,0,3,3,21
+85,1033,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,85,no,174,0,0,3,3,24
+86,663,Android,samsung,Galaxy S,22,Galaxy S 22,128,Like new,85,no,174,0,0,3,3,23
+87,1348,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,Brand new,93,no,2000,0,0,0,3,25
+88,565,Android,samsung,Galaxy Note,20,Galaxy Note 20,256,Lightly used,85,no,174,0,0,2,3,14
+89,930,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Well used,83,no,174,0,0,4,3,24
+90,939,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Like new,85,yes,2000,1,0,3,3,30
+91,498,Android,samsung,Galaxy S,21,Galaxy S 21,256,Lightly used,85,no,174,0,0,2,3,20
+92,1338,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,448,Brand new,93,no,408,0,0,0,3,25
+93,645,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,85,no,174,0,0,3,3,22
+94,1008,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,85,no,4739,0,0,3,3,24
+95,930,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Like new,85,no,133,0,0,3,3,30
+96,645,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,85,no,174,0,0,3,3,22
+97,394,Android,samsung,Galaxy S,20 FE,Galaxy S 20 FE,256,Lightly used,85,no,174,0,0,2,3,19
+98,300,Android,samsung,Galaxy S,10 Plus,Galaxy S 10 Plus,128,Heavily used,77,no,174,0,0,1,3,17
+99,550,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,85,no,10,0,0,3,3,22
+100,450,Android,oppo,Reno,7 Z,Reno 7 Z,128,Well used,83,no,11,0,0,4,2,83
+101,265,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Like new,85,no,174,0,0,3,2,76
+102,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Well used,83,no,174,0,0,4,2,5
+103,129,Android,oppo,Oppo A,16,Oppo A 16,64,Lightly used,85,yes,2000,1,0,2,2,51
+104,318,Android,oppo,Reno,7 Z,Reno 7 Z,128,Like new,85,no,174,0,0,3,2,83
+105,464,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Lightly used,85,no,174,0,0,2,2,78
+106,518,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,yes,4739,1,0,3,2,5
+107,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,no,174,0,0,2,2,5
+108,442,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,174,0,0,3,2,80
+109,559,Android,oppo,Reno,8,Reno 8,256,Like new,85,no,1000,0,0,3,2,84
+110,450,Android,oppo,Reno,10,Reno 10,256,Lightly used,85,no,174,0,0,2,2,70
+111,250,Android,oppo,Oppo A,57,Oppo A 57,128,Brand new,93,no,33,0,0,0,2,55
+112,789,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,174,0,0,3,2,80
+113,825,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,174,0,0,3,2,80
+114,355,Android,oppo,Oppo A,96,Oppo A 96,256,Brand new,93,no,0,0,0,0,2,58
+115,1199,Android,oppo,Find,N2 flip,Find N2 flip,256,Well used,83,no,1000,0,0,4,2,1
+116,442,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Lightly used,85,no,174,0,0,2,2,80
+117,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,no,174,0,0,2,2,5
+118,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,no,174,0,0,2,2,5
+119,538,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,4739,0,0,3,2,5
+120,228,Android,oppo,Reno,2,Reno 2,256,Like new,85,no,4739,0,0,3,2,73
+121,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,no,174,0,0,2,2,5
+122,265,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Lightly used,85,no,174,0,0,2,2,76
+123,550,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,174,0,0,3,2,5
+124,265,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Well used,83,no,174,0,0,4,2,76
+125,789,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Like new,85,no,174,0,0,3,2,76
+126,464,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Lightly used,85,no,174,0,0,2,2,78
+127,464,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Like new,85,no,174,0,0,3,2,78
+128,250,Android,oppo,Reno,3,Reno 3,128,Like new,85,no,53,0,0,3,2,74
+129,289,Android,oppo,Reno,3 Pro,Reno 3 Pro,256,Well used,83,no,2000,0,0,4,2,75
+130,838,Android,oppo,Find,X5 Pro,Find X5 Pro,256,Like new,85,no,4739,0,0,3,2,6
+131,450,Android,oppo,Reno,7,Reno 7,256,Well used,83,no,6,0,0,4,2,81
+132,290,Android,oppo,Reno,4 pro,Reno 4 pro,256,Like new,85,no,2000,0,0,3,2,77
+133,428,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,4739,0,0,3,2,80
+134,560,Android,oppo,Reno,9,Reno 9,256,Brand new,93,no,1,0,0,0,2,88
+135,199,Android,oppo,Oppo A,31,Oppo A 31,128,Well used,83,no,540,0,0,4,2,53
+136,430,Android,oppo,Reno,7 Z,Reno 7 Z,128,Brand new,93,no,50,0,0,0,2,83
+137,900,Android,oppo,Reno,8 Pro,Reno 8 Pro,256,Brand new,93,no,12,0,0,0,2,85
+138,468,Android,oppo,Find,X2 Pro,Find X2 Pro,448,Like new,85,no,4739,0,0,3,2,3
+139,179,Android,oppo,Oppo A,95,Oppo A 95,128,Lightly used,85,no,89,0,0,2,2,57
+140,108,Android,oppo,R11S,R11S,R11S R11S,64,Well used,83,no,540,0,0,4,2,69
+141,549,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,yes,2000,1,0,2,2,5
+142,160,Android,oppo,Oppo A,17K,Oppo A 17K,64,Like new,85,yes,2000,1,0,3,2,52
+143,538,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,4739,0,0,3,2,5
+144,348,Android,oppo,Oppo A,53,Oppo A 53,128,Like new,85,no,4739,0,0,3,2,54
+145,549,Android,oppo,Find,Pro 5G,Find Pro 5G,256,Lightly used,85,yes,2000,1,0,2,2,2
+146,328,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Like new,85,no,4739,0,0,3,2,78
+147,328,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Like new,85,no,4739,0,0,3,2,78
+148,464,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Lightly used,85,no,174,0,0,2,2,80
+149,450,Android,oppo,Reno,8,Reno 8,256,Lightly used,85,no,174,0,0,2,2,84
+150,228,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,4739,0,0,3,2,80
+151,442,Android,oppo,Reno,2,Reno 2,256,Lightly used,85,no,174,0,0,2,2,73
+152,549,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,85,yes,2000,1,0,2,2,5
+153,138,Android,huawei,Mate,10,Mate 10,64,Like new,85,no,4739,0,0,3,1,35
+154,348,Android,huawei,Mate,30,Mate 30,128,Like new,85,no,4739,0,0,3,1,40
+155,179,Android,huawei,P,20 Pro,P 20 Pro,8,Lightly used,85,no,2000,0,0,2,1,62
+156,138,Android,huawei,Mate,10,Mate 10,64,Like new,85,no,4739,0,0,3,1,35
+157,180,Android,huawei,P,30 Lite,P 30 Lite,128,Well used,83,no,0,0,0,4,1,63
+158,310,Android,huawei,Mate,20X,Mate 20X,128,Heavily used,77,no,29,0,0,1,1,39
+159,229,Android,huawei,Nova,5 T,Nova 5 T,8,Lightly used,85,no,2000,0,0,2,1,48
+160,229,Android,huawei,Mate,20,Mate 20,128,Well used,83,no,2000,0,0,4,1,37
+161,539,Android,huawei,P,40 Pro,P 40 Pro,256,Like new,85,no,174,0,0,3,1,66
+162,340,Android,huawei,P,30 Pro,P 30 Pro,256,Heavily used,77,no,0,0,0,1,1,64
+163,300,Android,huawei,Mate,20,Mate 20,128,Well used,83,no,0,0,0,4,1,37
+164,491,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Lightly used,85,no,174,0,0,2,1,38
+165,491,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Well used,83,no,174,0,0,4,1,38
+166,398,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Like new,85,no,2000,0,0,3,1,41
+167,189,Android,huawei,P,20 Pro,P 20 Pro,8,Lightly used,85,no,2000,0,0,2,1,62
+168,168,Android,huawei,P,30 Lite,P 30 Lite,128,Well used,83,no,2,0,0,4,1,63
+169,150,Android,huawei,Mate,10 Pro,Mate 10 Pro,128,Well used,83,no,289,0,0,4,1,36
+170,109,Android,huawei,Nova,3i,Nova 3i,128,Well used,83,no,387,0,0,4,1,47
+171,299,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Lightly used,85,no,2000,0,0,2,1,38
+172,160,Android,huawei,Mate,10 Pro,Mate 10 Pro,128,Heavily used,77,no,312,0,0,1,1,36
+173,89,Android,huawei,Nova,3i,Nova 3i,128,Well used,83,no,3,0,0,4,1,47
+174,649,Android,huawei,P,50 Pro,P 50 Pro,256,Well used,83,no,251,0,0,4,1,68
+175,600,Android,huawei,Mate,40 Pro,Mate 40 Pro,256,Heavily used,77,no,364,0,0,1,1,42
+176,320,Android,huawei,P,30 Pro,P 30 Pro,256,Well used,83,no,15,0,0,4,1,64
+177,229,Android,huawei,Nova,7 SE,Nova 7 SE,128,Like new,85,no,1000,0,0,3,1,49
+178,229,Android,huawei,Mate,20,Mate 20,128,Lightly used,85,no,2000,0,0,2,1,37
+179,190,Android,huawei,Mate,20,Mate 20,128,Heavily used,77,no,9,0,0,1,1,37
+180,419,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,83,no,118,0,0,4,1,41
+181,178,Android,huawei,P,20 Pro,P 20 Pro,128,Well used,83,no,111,0,0,4,1,62
+182,160,Android,huawei,P,20 Pro,P 20 Pro,128,Well used,83,no,29,0,0,4,1,62
+183,399,Android,huawei,Mate,20X,Mate 20X,128,Brand new,93,no,348,0,0,0,1,39
+184,419,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,83,no,2,0,0,4,1,41
+185,299,Android,huawei,P,40,P 40,128,Well used,83,no,251,0,0,4,1,65
+186,1400,Android,huawei,Mate,50 Pro,Mate 50 Pro,256,Brand new,93,no,774,0,0,0,1,43
+187,428,Android,huawei,P,30 Pro,P 30 Pro,128,Like new,85,no,71,0,0,3,1,64
+188,100,Android,huawei,P,30 Lite,P 30 Lite,128,Well used,83,no,322,0,0,4,1,63
+189,130,Android,huawei,Nova,3i,Nova 3i,128,Well used,83,no,2,0,0,4,1,47
+190,419,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,83,no,1000,0,0,4,1,41
+191,300,Android,huawei,P,40,P 40,128,Well used,83,no,50,0,0,4,1,65
+192,419,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,83,no,1000,0,0,4,1,41
+193,699,Android,huawei,P,50 Pro,P 50 Pro,256,Like new,85,no,1000,0,0,3,1,68
+194,400,Android,huawei,P,40 Pro,P 40 Pro,256,Well used,83,no,147,0,0,4,1,66
+195,419,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,83,no,52,0,0,4,1,41
+196,1398,Android,huawei,Mate,50 Pro,Mate 50 Pro,256,Well used,83,no,83,0,0,4,1,43
+197,1500,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Like new,80,no,48,0,1,3,0,103
+198,379,IOS,apple,iPhone,XS,iPhone XS,256,Lightly used,91,no,2000,0,1,2,0,110
+199,1588,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,256,Brand new,93,no,195,0,1,0,0,102
+200,629,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,195,0,1,4,0,97
+201,604,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,256,Well used,83,no,195,0,1,4,0,92
+202,824,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,195,0,1,4,0,97
+203,650,IOS,apple,iPhone,12,iPhone 12,128,Like new,85,no,63,0,1,3,0,94
+204,428,IOS,apple,iPhone,XS Max,iPhone XS Max,256,Lightly used,79,no,195,0,1,2,0,111
+205,1288,IOS,apple,iPhone,14,iPhone 14,256,Well used,83,no,195,0,1,4,0,101
+206,300,IOS,apple,iPhone,11,iPhone 11,128,Well used,87,no,12,0,1,4,0,91
+207,1620,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Brand new,93,no,24,0,1,0,0,103
+208,814,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,128,Well used,83,no,195,0,1,4,0,97
+209,217,IOS,apple,iPhone,8 Plus,iPhone 8 Plus,64,Well used,83,no,195,0,1,4,0,108
+210,584,IOS,apple,iPhone,12,iPhone 12,128,Well used,83,no,195,0,1,4,0,94
+211,819,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,195,0,1,4,0,97
+212,1788,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Brand new,93,no,195,0,1,0,0,103
+213,305,IOS,apple,iPhone,XS,iPhone XS,64,Like new,77,no,195,0,1,3,0,110
+214,399,IOS,apple,iPhone,11,iPhone 11,64,Lightly used,77,no,195,0,1,2,0,91
+215,189,IOS,apple,iPhone,7 Plus,iPhone 7 Plus,128,Well used,80,no,195,0,1,4,0,106
+216,1288,IOS,apple,iPhone,14,iPhone 14,256,Well used,83,no,195,0,1,4,0,101
+217,824,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,195,0,1,4,0,97
+218,268,IOS,apple,iPhone,8 Plus,iPhone 8 Plus,256,Well used,83,no,195,0,1,4,0,108
+219,819,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,256,Well used,83,no,195,0,1,4,0,97
+220,217,IOS,apple,iPhone,8,iPhone 8,64,Lightly used,77,no,195,0,1,2,0,107
+221,1488,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,128,Brand new,93,no,195,0,1,0,0,102
+222,292,IOS,apple,iPhone, XR,iPhone  XR,128,Well used,80,no,195,0,1,4,0,90
+223,154,IOS,apple,iPhone,7,iPhone 7,128,Well used,83,no,195,0,1,4,0,105
+224,444,IOS,apple,iPhone,11,iPhone 11,128,Well used,83,no,195,0,1,4,0,91
+225,715,IOS,apple,iPhone,12 Pro,iPhone 12 Pro,128,Well used,83,no,195,0,1,4,0,96
+226,754,IOS,apple,iPhone,12 Pro,iPhone 12 Pro,256,Well used,83,no,195,0,1,4,0,96
+227,814,IOS,apple,iPhone,12 Pro Max,iPhone 12 Pro Max,128,Well used,83,no,195,0,1,4,0,97
+228,1688,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,128,Brand new,93,no,195,0,1,0,0,103
+229,1049,IOS,apple,iPhone,13 Pro,iPhone 13 Pro,256,Well used,83,no,195,0,1,4,0,99
+230,1488,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,128,Brand new,93,no,195,0,1,0,0,102
+231,1488,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,128,Brand new,93,no,195,0,1,0,0,102
+232,1588,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,256,Brand new,93,no,195,0,1,0,0,102
+233,650,IOS,apple,iPhone,11 Pro Max,iPhone 11 Pro Max,256,Well used,80,no,48,0,1,4,0,92
+234,1188,IOS,apple,iPhone,14,iPhone 14,128,Well used,83,no,195,0,1,4,0,101
+235,1788,IOS,apple,iPhone,14 Pro Max,iPhone 14 Pro Max,256,Brand new,93,no,195,0,1,0,0,103
+236,481,IOS,apple,iPhone,12,iPhone 12,64,Well used,83,no,195,0,1,4,0,94
+237,454,IOS,apple,iPhone,XS Max,iPhone XS Max,448,Well used,83,no,195,0,1,4,0,111
+238,232,IOS,apple,iPhone,8 Plus,iPhone 8 Plus,256,Well used,83,no,195,0,1,4,0,108
+239,1988,IOS,apple,iPhone,14 Pro,iPhone 14 Pro,448,Brand new,93,no,195,0,1,0,0,102
+240,1174,IOS,apple,iPhone,13 Pro Max,iPhone 13 Pro Max,256,Well used,83,no,195,0,1,4,0,100
+241,186,IOS,apple,iPhone,8,iPhone 8,64,Heavily used,77,no,195,0,1,1,0,107
+242,450,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Well used,83,no,60,0,0,4,3,21
+243,1588,Android,samsung,Galaxy Z,Fold 4,Galaxy Z Fold 4,448,Like new,93,no,35,0,0,3,3,32
+244,624,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,86,no,195,0,0,3,3,22
+245,1024,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,86,no,195,0,0,3,3,24
+246,1800,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,448,Brand new,93,no,11,0,0,0,3,25
+247,824,Android,samsung,Galaxy Z,Fold 3,Galaxy Z Fold 3,256,Like new,86,no,195,0,0,3,3,31
+248,1019,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Lightly used,91,no,195,0,0,2,3,24
+249,789,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,Lightly used,91,yes,2000,1,0,2,3,30
+250,1024,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,86,no,195,0,0,3,3,24
+251,1218,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,448,Lightly used,91,no,195,0,0,2,3,24
+252,1280,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,Brand new,93,no,52,0,0,0,3,25
+253,350,Android,samsung,Galaxy Note,10 Plus,Galaxy Note 10 Plus,256,Well used,83,no,191,0,0,4,3,13
+254,824,Android,samsung,Galaxy Z,Fold 3,Galaxy Z Fold 3,256,Like new,86,no,195,0,0,3,3,31
+255,968,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,448,Like new,91,yes,948,1,0,3,3,30
+256,1320,Android,samsung,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,Brand new,93,no,3000,0,0,0,3,25
+257,1218,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,448,Like new,86,no,195,0,0,3,3,24
+258,258,Android,samsung,Galaxy S,20,Galaxy S 20,128,Well used,87,no,288,0,0,4,3,18
+259,869,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Like new,91,yes,2000,1,0,3,3,30
+260,350,Android,samsung,Galaxy S,21,Galaxy S 21,256,Well used,87,no,0,0,0,4,3,20
+261,1024,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,86,no,195,0,0,3,3,24
+262,629,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,86,no,2000,0,0,3,3,22
+263,329,Android,samsung,Galaxy Note,10,Galaxy Note 10,256,Lightly used,91,no,2000,0,0,2,3,12
+264,624,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,86,no,195,0,0,3,3,22
+265,590,Android,samsung,Galaxy A,A73,Galaxy A A73,128,Brand new,93,no,1,0,0,0,3,11
+266,875,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Well used,83,no,199,0,0,4,3,24
+267,743,Android,samsung,Galaxy S,22,Galaxy S 22,256,Like new,86,no,195,0,0,3,3,23
+268,329,Android,samsung,Galaxy S,20 FE,Galaxy S 20 FE,256,Lightly used,91,no,2000,0,0,2,3,19
+269,468,Android,samsung,Galaxy Note,20 ultra,Galaxy Note 20 ultra,256,Well used,87,no,948,0,0,4,3,15
+270,1024,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Like new,86,no,195,0,0,3,3,24
+271,593,Android,samsung,Galaxy A,A73,Galaxy A A73,128,Well used,83,no,105,0,0,4,3,11
+272,1750,Android,samsung,Fold,4,Fold 4,256,Brand new,93,no,1000,0,0,0,3,7
+273,503,Android,samsung,Galaxy S,21,Galaxy S 21,256,Like new,85,no,195,0,0,3,3,20
+274,250,Android,samsung,Galaxy Note,9,Galaxy Note 9,128,Well used,87,no,25,0,0,4,3,16
+275,743,Android,samsung,Galaxy S,22,Galaxy S 22,256,Like new,85,no,195,0,0,3,3,23
+276,508,Android,samsung,Galaxy S,21,Galaxy S 21,256,Like new,85,no,4739,0,0,3,3,20
+277,550,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Well used,83,no,161,0,0,4,3,21
+278,922,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,Well used,87,no,195,0,0,4,3,24
+279,900,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,Brand new,93,yes,47,1,0,0,3,30
+280,829,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,Like new,91,yes,2000,1,0,3,3,30
+281,764,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,448,Like new,85,no,195,0,0,3,3,22
+282,503,Android,samsung,Galaxy S,21,Galaxy S 21,256,Like new,85,no,195,0,0,3,3,20
+283,1548,Android,samsung,Galaxy Z,Fold 4,Galaxy Z Fold 4,448,Like new,91,yes,948,1,0,3,3,32
+284,558,Android,samsung,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,Lightly used,91,no,195,0,0,2,3,29
+285,534,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,195,0,0,3,3,21
+286,700,Android,samsung,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,Well used,83,no,38,0,0,4,3,30
+287,1099,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,448,Lightly used,91,no,2000,0,0,2,3,24
+288,498,Android,samsung,Galaxy S,21,Galaxy S 21,256,Lightly used,91,no,195,0,0,2,3,20
+289,1499,Android,samsung,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,Like new,85,no,2000,0,0,3,3,32
+290,578,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,4739,0,0,3,3,21
+291,624,Android,samsung,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,Like new,85,no,195,0,0,3,3,22
+292,558,Android,samsung,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,Like new,85,no,195,0,0,3,3,29
+293,1499,Android,samsung,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,Like new,91,yes,2000,1,0,3,3,32
+294,534,Android,samsung,Galaxy S,21 Plus,Galaxy S 21 Plus,256,Like new,85,no,195,0,0,3,3,21
+295,1218,Android,samsung,Galaxy S,22 Ultra,Galaxy S 22 Ultra,448,Like new,85,no,195,0,0,3,3,24
+296,328,Android,oppo,Reno,7 Z,Reno 7 Z,128,Lightly used,91,no,2000,0,0,2,2,83
+297,548,Android,oppo,Reno,7 Pro,Reno 7 Pro,256,Like new,91,yes,948,1,0,3,2,82
+298,549,Android,oppo,Find,X5 Pro,Find X5 Pro,256,Lightly used,91,no,2000,0,0,2,2,6
+299,480,Android,oppo,Reno,7 Pro,Reno 7 Pro,256,Well used,83,no,60,0,0,4,2,82
+300,450,Android,oppo,Reno,10x Zoom,Reno 10x Zoom,256,Lightly used,91,no,195,0,0,2,2,72
+301,255,Android,oppo,Oppo A,76,Oppo A 76,128,Brand new,93,no,35,0,0,0,2,56
+302,543,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,91,no,195,0,0,2,2,5
+303,180,Android,oppo,Oppo A,53,Oppo A 53,128,Lightly used,91,no,545,0,0,2,2,54
+304,520,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Well used,83,no,78,0,0,4,2,5
+305,440,Android,oppo,Reno,7 Z,Reno 7 Z,128,Brand new,93,no,22,0,0,0,2,83
+306,690,Android,oppo,Reno,8,Reno 8,256,Well used,83,no,26,0,0,4,2,84
+307,228,Android,oppo,Reno,5Z,Reno 5Z,128,Like new,85,no,4739,0,0,3,2,79
+308,464,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Like new,85,no,195,0,0,3,2,78
+309,1098,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,3000,0,0,3,2,5
+310,1098,Android,oppo,Find,N2 Flip,Find N2 Flip,256,Like new,85,no,3000,0,0,3,2,0
+311,1199,Android,oppo,Find,N2 Flip,Find N2 Flip,256,Brand new,93,yes,2,1,0,0,2,0
+312,289,Android,oppo,Reno,3 Pro,Reno 3 Pro,256,Lightly used,91,no,2000,0,0,2,2,75
+313,442,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,195,0,0,3,2,80
+314,480,Android,oppo,Reno,7 Z,Reno 7 Z,128,Brand new,93,no,87,0,0,0,2,83
+315,118,Android,oppo,Oppo A,X5S,Oppo A X5S,64,Like new,85,no,4739,0,0,3,2,59
+316,240,Android,oppo,Reno,3,Reno 3,128,Well used,83,no,9,0,0,4,2,74
+317,268,Android,oppo,Reno,10X Zoom,Reno 10X Zoom,256,Like new,85,no,4739,0,0,3,2,71
+318,789,Android,oppo,Reno,8 pro,Reno 8 pro,256,Like new,85,no,1000,0,0,3,2,86
+319,248,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Lightly used,91,no,2000,0,0,2,2,76
+320,279,Android,oppo,Reno,4 Pro,Reno 4 Pro,256,Like new,85,no,2000,0,0,3,2,76
+321,588,Android,oppo,Reno,8T,Reno 8T,256,Brand new,93,no,10,0,0,0,2,87
+322,180,Android,oppo,Oppo A,53,Oppo A 53,128,Lightly used,91,no,545,0,0,2,2,54
+323,550,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,91,yes,5,1,0,3,2,5
+324,548,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,91,yes,4739,1,0,3,2,5
+325,818,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,4739,0,0,3,2,5
+326,399,Android,oppo,Reno,7 Z,Reno 7 Z,128,Brand new,93,no,53,0,0,0,2,83
+327,380,Android,oppo,Reno,5 Pro,Reno 5 Pro,256,Well used,90,no,39,0,0,4,2,78
+328,628,Android,oppo,Reno,7,Reno 7,256,Like new,85,no,3000,0,0,3,2,81
+329,800,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Lightly used,91,yes,0,1,0,2,2,5
+330,418,Android,oppo,Reno,6 Pro,Reno 6 Pro,256,Like new,85,no,4739,0,0,3,2,80
+331,520,Android,oppo,Reno,7 Pro,Reno 7 Pro,256,Well used,90,no,1,0,0,4,2,82
+332,549,Android,oppo,Reno,7 Pro,Reno 7 Pro,256,Like new,85,no,1000,0,0,3,2,82
+333,579,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,91,yes,2000,1,0,3,2,5
+334,549,Android,oppo,Find,X3 Pro,Find X3 Pro,256,Like new,85,no,2000,0,0,3,2,5
+335,499,Android,oppo,Reno,8T,Reno 8T,128,Brand new,93,yes,2000,1,0,0,2,87
+336,629,Android,oppo,Reno,8T,Reno 8T,256,Brand new,93,yes,2000,1,0,0,2,87
+337,428,Android,oppo,Find,X2 Pro ,Find X2 Pro ,448,Like new,85,no,3000,0,0,3,2,4
+338,369,Android,huawei,P,40,P 40,128,Lightly used,91,no,2000,0,0,2,1,65
+339,248,Android,huawei,Mate,Pad 10.4 ,Mate Pad 10.4 ,64,Like new,85,no,3000,0,0,3,1,44
+340,280,Android,huawei,Mate,30,Mate 30,128,Well used,90,no,80,0,0,4,1,40
+341,280,Android,huawei,Mate,20,Mate 20,128,Well used,87,no,0,0,0,4,1,37
+342,170,Android,huawei,Mate,10 Pro,Mate 10 Pro,128,Well used,92,no,9,0,0,4,1,36
+343,398,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Like new,85,no,4739,0,0,3,1,41
+344,399,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Like new,85,no,1000,0,0,3,1,41
+345,500,Android,huawei,P,30 Pro,P 30 Pro,256,Like new,85,no,0,0,0,3,1,64
+346,189,Android,huawei,P,20 Pro,P 20 Pro,128,Well used,87,no,2000,0,0,4,1,62
+347,160,Android,huawei,Honor,8c MAX,Honor 8c MAX,6,Well used,83,no,73,0,0,4,1,34
+348,229,Android,huawei,Mate,20,Mate 20,128,Lightly used,91,no,2000,0,0,2,1,37
+349,288,Android,huawei,P,40,P 40,128,Lightly used,91,no,195,0,0,2,1,65
+350,110,Android,huawei,Nova,3i,Nova 3i,128,Well used,87,no,0,0,0,4,1,47
+351,170,Android,huawei,P,20 Pro,P 20 Pro,128,Well used,87,no,160,0,0,4,1,62
+352,40,Android,huawei,Nova,2i,Nova 2i,64,Well used,87,no,3,0,0,4,1,46
+353,159,Android,huawei,P,20,P 20,128,Like new,85,no,2000,0,0,3,1,61
+354,209,Android,huawei,P,20 Pro,P 20 Pro,128,Lightly used,91,no,2000,0,0,2,1,62
+355,229,Android,huawei,Nova,5 T,Nova 5 T,128,Lightly used,91,no,2000,0,0,2,1,48
+356,300,Android,huawei,P,30 Pro,P 30 Pro,256,Well used,87,no,0,0,0,4,1,64
+357,179,Android,huawei,Mate,10 Pro,Mate 10 Pro,128,Lightly used,91,no,2000,0,0,2,1,36
+358,229,Android,huawei,Nova,5 T,Nova 5 T,128,Like new,85,no,2000,0,0,3,1,48
+359,369,Android,huawei,P,40,P 40,128,Lightly used,91,no,2000,0,0,2,1,65
+360,269,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Like new,85,no,2000,0,0,3,1,38
+361,219,Android,huawei,P,20 Pro,P 20 Pro,128,Lightly used,91,no,2000,0,0,2,1,62
+362,40,Android,huawei,P,20 Pro,P 20 Pro,128,Heavily used,77,no,37,0,0,1,1,62
+363,369,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Like new,85,no,2000,0,0,3,1,41
+364,180,Android,huawei,P,20 Pro,P 20 Pro,128,Well used,83,no,14,0,0,4,1,62
+365,949,Android,huawei,Mate,50 Pro,Mate 50 Pro,256,Well used,87,no,252,0,0,4,1,43
+366,75,Android,huawei,Y,6 Pro,Y 6 Pro,32,Well used,87,no,4,0,0,4,1,89
+367,190,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Well used,87,no,85,0,0,4,1,38
+368,170,Android,huawei,Honor,8c,Honor 8c,32,Like new,85,no,7,0,0,3,1,33
+369,1000,Android,huawei,Mate,20X,Mate 20X,256,Well used,87,no,173,0,0,4,1,39
+370,420,Android,huawei,Mate,20X,Mate 20X,128,Well used,87,no,61,0,0,4,1,39
+371,355,Android,huawei,P,30 Pro,P 30 Pro,256,Well used,87,no,1000,0,0,4,1,64
+372,209,Android,huawei,P,20 Pro,P 20 Pro,128,Lightly used,91,no,2000,0,0,2,1,62
+373,518,Android,huawei,Mate,Pad Pro ,Mate Pad Pro ,256,Like new,85,no,3000,0,0,3,1,45
+374,199,Android,huawei,Nova,7i,Nova 7i,128,Like new,85,no,2000,0,0,3,1,50
+375,750,Android,huawei,P,40 pro plus,P 40 pro plus,256,Well used,87,no,171,0,0,4,1,67
+376,230,Android,huawei,Mate,20 Pro,Mate 20 Pro,128,Well used,87,no,5,0,0,4,1,38
+377,1100,Android,huawei,Mate,50 Pro,Mate 50 Pro,256,Well used,87,no,107,0,0,4,1,43
+378,389,Android,huawei,Mate,30 Pro,Mate 30 Pro,256,Well used,87,no,411,0,0,4,1,41
+379,100,Android,huawei,P,10,P 10,64,Well used,87,no,52,0,0,4,1,60
+380,350,Android,huawei,P,40 Pro,P 40 Pro,256,Lightly used,91,no,5,0,0,2,1,66
+381,1148,Android,huawei,Mate,50 Pro,Mate 50 Pro,256,Like new,91,yes,3000,1,0,3,1,43
