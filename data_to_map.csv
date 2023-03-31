@@ -1,0 +1,383 @@
+,price,os,brand,series,model,phone,capacity,condition,battery,warranty,reviews,phone_num,warranty_num,os_num
+0,399,IOS,0,iPhone,11,iPhone 11,128,4,75,no,2000,91,0,1
+1,1080,IOS,0,iPhone,14,iPhone 14,128,0,100,no,2000,101,0,1
+2,580,IOS,0,iPhone,11 pro,iPhone 11 pro,256,2,85,no,9,93,0,1
+3,1048,IOS,0,iPhone,13 Pro,iPhone 13 Pro,256,3,83,no,11000,99,0,1
+4,298,IOS,0,iPhone,X,iPhone X,256,1,85,no,830,109,0,1
+5,750,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,512,1,98,no,15,92,0,1
+6,1200,IOS,0,iPhone,14,iPhone 14,128,1,98,no,82,101,0,1
+7,1850,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,0,100,no,2,103,0,1
+8,1690,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,0,100,no,898,103,0,1
+9,1166,IOS,0,iPhone,14,iPhone 14,128,0,100,no,2000,101,0,1
+10,1068,IOS,0,iPhone,13 Pro,iPhone 13 Pro,128,3,83,no,11000,99,0,1
+11,1100,IOS,0,iPhone,14,iPhone 14,128,0,100,no,18,101,0,1
+12,330,IOS,0,iPhone, XR,iPhone  XR,128,1,85,no,121,90,0,1
+13,1268,IOS,0,iPhone,13 Pro Max,iPhone 13 Pro Max,256,3,83,no,11000,100,0,1
+14,1138,IOS,0,iPhone,13 Pro,iPhone 13 Pro,256,3,77,no,11000,99,0,1
+15,305,IOS,0,iPhone,XS,iPhone XS,64,1,85,no,174,110,0,1
+16,589,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,64,3,83,no,174,92,0,1
+17,189,IOS,0,iPhone,7 Plus,iPhone 7 Plus,128,3,83,no,174,106,0,1
+18,55,IOS,0,iPhone,4,iPhone 4,32,3,83,no,81,104,0,1
+19,1020,IOS,0,iPhone,14,iPhone 14,128,0,100,no,2000,101,0,1
+20,610,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,256,3,83,no,174,92,0,1
+21,534,IOS,0,iPhone,12,iPhone 12,64,3,83,no,174,94,0,1
+22,708,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,256,3,83,no,11000,92,0,1
+23,1158,IOS,0,iPhone,13 Pro Max,iPhone 13 Pro Max,128,0,100,no,272,100,0,1
+24,369,IOS,0,iPhone,XS Max,iPhone XS Max,64,2,85,no,174,111,0,1
+25,436,IOS,0,iPhone,11,iPhone 11,256,3,83,no,174,91,0,1
+26,1088,IOS,0,iPhone,14,iPhone 14,128,0,100,no,272,101,0,1
+27,300,IOS,0,iPhone,XS,iPhone XS,64,3,83,no,174,110,0,1
+28,549,IOS,0,iPhone,12 Mini,iPhone 12 Mini,128,3,83,no,174,95,0,1
+29,1258,IOS,0,iPhone,13 Pro Max,iPhone 13 Pro Max,256,0,100,no,272,100,0,1
+30,460,IOS,0,iPhone,12 Mini,iPhone 12 Mini,64,1,85,no,22,95,0,1
+31,754,IOS,0,iPhone,12 Pro,iPhone 12 Pro,256,3,83,no,174,96,0,1
+32,489,IOS,0,iPhone,XS Max,iPhone XS Max,512,3,83,no,174,111,0,1
+33,1088,IOS,0,iPhone,13 Pro,iPhone 13 Pro,128,3,83,no,11000,99,0,1
+34,604,IOS,0,iPhone,12,iPhone 12,128,3,83,no,174,94,0,1
+35,825,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,174,97,0,1
+36,858,IOS,0,iPhone,13,iPhone 13,128,3,83,no,272,98,0,1
+37,174,IOS,0,iPhone,7,iPhone 7,128,3,83,no,174,105,0,1
+38,439,IOS,0,iPhone,11,iPhone 11,128,3,83,no,174,91,0,1
+39,1470,IOS,0,iPhone,14,iPhone 14,512,0,100,no,2000,101,0,1
+40,568,IOS,0,iPhone,12,iPhone 12,64,3,83,no,11000,94,0,1
+41,814,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,128,3,83,no,174,97,0,1
+42,710,IOS,0,iPhone,12 Pro,iPhone 12 Pro,128,3,83,no,174,96,0,1
+43,1520,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,128,0,100,no,2000,103,0,1
+44,1238,IOS,0,iPhone,13 Pro Max,iPhone 13 Pro Max,256,3,83,no,11000,100,0,1
+45,634,IOS,0,iPhone,12,iPhone 12,256,3,83,no,174,94,0,1
+46,1450,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,128,0,100,no,2000,103,0,1
+47,618,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,64,3,73,no,11000,92,0,1
+48,292,IOS,0,iPhone,X,iPhone X,64,3,83,no,174,109,0,1
+49,250,IOS,0,iPhone,X,iPhone X,64,3,83,no,37,109,0,1
+50,604,IOS,0,iPhone,12,iPhone 12,128,3,83,no,174,94,0,1
+51,749,IOS,0,iPhone,12 Pro,iPhone 12 Pro,256,3,83,no,174,96,0,1
+52,698,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,256,3,83,no,11000,92,0,1
+53,909,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,2,85,yes,2000,30,1,0
+54,188,Android,1,Galaxy S,9,Galaxy S 9,64,1,85,no,11000,27,0,0
+55,859,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,1,85,yes,2000,30,1,0
+56,208,Android,1,Galaxy S,9,Galaxy S 9,64,1,85,no,11000,27,0,0
+57,939,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,1,85,yes,2000,30,1,0
+58,199,Android,1,Galaxy A,A32,Galaxy A A32,128,1,85,no,916,10,0,0
+59,1150,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,0,100,no,10,30,0,0
+60,180,Android,1,Galaxy S,8,Galaxy S 8,64,3,83,no,28,26,0,0
+61,1350,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,0,100,no,8,25,0,0
+62,241,Android,1,Galaxy A,A 23,Galaxy A A 23,128,0,100,no,573,8,0,0
+63,198,Android,1,Galaxy S,9,Galaxy S 9,64,1,85,no,11000,27,0,0
+64,565,Android,1,Galaxy Note,20,Galaxy Note 20,256,2,85,no,174,14,0,0
+65,554,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,174,21,0,0
+66,1509,Android,1,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,2,85,yes,2000,32,1,0
+67,1033,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,85,no,174,24,0,0
+68,609,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,85,no,348,22,0,0
+69,512,Android,1,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,3,83,no,174,29,0,0
+70,1550,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,512,0,100,no,898,25,0,0
+71,620,Android,1,Galaxy S,21,Galaxy S 21,256,3,83,no,16,20,0,0
+72,394,Android,1,Galaxy S,20 FE,Galaxy S 20 FE,256,2,85,no,174,19,0,0
+73,228,Android,1,Galaxy S,9 Plus,Galaxy S 9 Plus,128,1,85,no,11000,28,0,0
+74,565,Android,1,Galaxy Note,20,Galaxy Note 20,256,2,85,no,174,14,0,0
+75,550,Android,1,Galaxy S,21,Galaxy S 21,256,3,83,no,6,20,0,0
+76,391,Android,1,Galaxy S,20 FE,Galaxy S 20 FE,256,3,83,no,174,19,0,0
+77,400,Android,1,Galaxy Note,20,Galaxy Note 20,256,2,85,no,28,14,0,0
+78,1018,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,85,no,11000,24,0,0
+79,500,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,1000,21,0,0
+80,241,Android,1,Galaxy A,A23,Galaxy A A23,128,0,100,no,573,9,0,0
+81,503,Android,1,Galaxy S,21,Galaxy S 21,256,1,85,no,174,20,0,0
+82,549,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,2,85,no,174,21,0,0
+83,350,Android,1,Galaxy Note,10,Galaxy Note 10,256,2,85,no,174,12,0,0
+84,558,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,11000,21,0,0
+85,1033,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,85,no,174,24,0,0
+86,663,Android,1,Galaxy S,22,Galaxy S 22,128,1,85,no,174,23,0,0
+87,1348,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,0,100,no,2000,25,0,0
+88,565,Android,1,Galaxy Note,20,Galaxy Note 20,256,2,85,no,174,14,0,0
+89,930,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,3,83,no,174,24,0,0
+90,939,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,1,85,yes,2000,30,1,0
+91,498,Android,1,Galaxy S,21,Galaxy S 21,256,2,85,no,174,20,0,0
+92,1338,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,512,0,100,no,408,25,0,0
+93,645,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,85,no,174,22,0,0
+94,1008,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,85,no,11000,24,0,0
+95,930,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,1,85,no,133,30,0,0
+96,645,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,85,no,174,22,0,0
+97,394,Android,1,Galaxy S,20 FE,Galaxy S 20 FE,256,2,85,no,174,19,0,0
+98,300,Android,1,Galaxy S,10 Plus,Galaxy S 10 Plus,128,4,75,no,174,17,0,0
+99,550,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,85,no,10,22,0,0
+100,450,Android,2,Reno,7 Z,Reno 7 Z,128,3,83,no,11,83,0,0
+101,265,Android,2,Reno,4 Pro,Reno 4 Pro,256,1,85,no,174,76,0,0
+102,543,Android,2,Find,X3 Pro,Find X3 Pro,256,3,83,no,174,5,0,0
+103,129,Android,2,Oppo A,16,Oppo A 16,64,2,85,yes,2000,51,1,0
+104,318,Android,2,Reno,7 Z,Reno 7 Z,128,1,85,no,174,83,0,0
+105,464,Android,2,Reno,5 Pro,Reno 5 Pro,256,2,85,no,174,78,0,0
+106,518,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,yes,11000,5,1,0
+107,543,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,no,174,5,0,0
+108,442,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,174,80,0,0
+109,559,Android,2,Reno,8,Reno 8,256,1,85,no,1000,84,0,0
+110,450,Android,2,Reno,10,Reno 10,256,2,85,no,174,70,0,0
+111,250,Android,2,Oppo A,57,Oppo A 57,128,0,100,no,33,55,0,0
+112,789,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,174,80,0,0
+113,825,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,174,80,0,0
+114,355,Android,2,Oppo A,96,Oppo A 96,256,0,100,no,0,58,0,0
+115,1199,Android,2,Find,N2 flip,Find N2 flip,256,3,83,no,1000,1,0,0
+116,442,Android,2,Reno,6 Pro,Reno 6 Pro,256,2,85,no,174,80,0,0
+117,543,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,no,174,5,0,0
+118,543,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,no,174,5,0,0
+119,538,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,11000,5,0,0
+120,228,Android,2,Reno,2,Reno 2,256,1,85,no,11000,73,0,0
+121,543,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,no,174,5,0,0
+122,265,Android,2,Reno,4 Pro,Reno 4 Pro,256,2,85,no,174,76,0,0
+123,550,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,174,5,0,0
+124,265,Android,2,Reno,4 Pro,Reno 4 Pro,256,3,83,no,174,76,0,0
+125,789,Android,2,Reno,4 Pro,Reno 4 Pro,256,1,85,no,174,76,0,0
+126,464,Android,2,Reno,5 Pro,Reno 5 Pro,256,2,85,no,174,78,0,0
+127,464,Android,2,Reno,5 Pro,Reno 5 Pro,256,1,85,no,174,78,0,0
+128,250,Android,2,Reno,3,Reno 3,128,1,85,no,53,74,0,0
+129,289,Android,2,Reno,3 Pro,Reno 3 Pro,256,3,83,no,2000,75,0,0
+130,838,Android,2,Find,X5 Pro,Find X5 Pro,256,1,85,no,11000,6,0,0
+131,450,Android,2,Reno,7,Reno 7,256,3,83,no,6,81,0,0
+132,290,Android,2,Reno,4 pro,Reno 4 pro,256,1,85,no,2000,77,0,0
+133,428,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,11000,80,0,0
+134,560,Android,2,Reno,9,Reno 9,256,0,100,no,1,88,0,0
+135,199,Android,2,Oppo A,31,Oppo A 31,128,3,83,no,540,53,0,0
+136,430,Android,2,Reno,7 Z,Reno 7 Z,128,0,100,no,50,83,0,0
+137,900,Android,2,Reno,8 Pro,Reno 8 Pro,256,0,100,no,12,85,0,0
+138,468,Android,2,Find,X2 Pro,Find X2 Pro,512,1,85,no,11000,3,0,0
+139,179,Android,2,Oppo A,95,Oppo A 95,128,2,85,no,89,57,0,0
+140,108,Android,2,R11S,R11S,R11S R11S,64,3,83,no,540,69,0,0
+141,549,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,yes,2000,5,1,0
+142,160,Android,2,Oppo A,17K,Oppo A 17K,64,1,85,yes,2000,52,1,0
+143,538,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,11000,5,0,0
+144,348,Android,2,Oppo A,53,Oppo A 53,128,1,85,no,11000,54,0,0
+145,549,Android,2,Find,Pro 5G,Find Pro 5G,256,2,85,yes,2000,2,1,0
+146,328,Android,2,Reno,5 Pro,Reno 5 Pro,256,1,85,no,11000,78,0,0
+147,328,Android,2,Reno,5 Pro,Reno 5 Pro,256,1,85,no,11000,78,0,0
+148,464,Android,2,Reno,6 Pro,Reno 6 Pro,256,2,85,no,174,80,0,0
+149,450,Android,2,Reno,8,Reno 8,256,2,85,no,174,84,0,0
+150,228,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,11000,80,0,0
+151,442,Android,2,Reno,2,Reno 2,256,2,85,no,174,73,0,0
+152,549,Android,2,Find,X3 Pro,Find X3 Pro,256,2,85,yes,2000,5,1,0
+153,138,Android,3,Mate,10,Mate 10,64,1,85,no,11000,35,0,0
+154,348,Android,3,Mate,30,Mate 30,128,1,85,no,11000,40,0,0
+155,179,Android,3,P,20 Pro,P 20 Pro,8,2,85,no,2000,62,0,0
+156,138,Android,3,Mate,10,Mate 10,64,1,85,no,11000,35,0,0
+157,180,Android,3,P,30 Lite,P 30 Lite,128,3,83,no,0,63,0,0
+158,310,Android,3,Mate,20X,Mate 20X,128,4,75,no,29,39,0,0
+159,229,Android,3,Nova,5 T,Nova 5 T,8,2,85,no,2000,48,0,0
+160,229,Android,3,Mate,20,Mate 20,128,3,83,no,2000,37,0,0
+161,539,Android,3,P,40 Pro,P 40 Pro,256,1,85,no,174,66,0,0
+162,340,Android,3,P,30 Pro,P 30 Pro,256,4,75,no,0,64,0,0
+163,300,Android,3,Mate,20,Mate 20,128,3,83,no,0,37,0,0
+164,491,Android,3,Mate,20 Pro,Mate 20 Pro,128,2,85,no,174,38,0,0
+165,491,Android,3,Mate,20 Pro,Mate 20 Pro,128,3,83,no,174,38,0,0
+166,398,Android,3,Mate,30 Pro,Mate 30 Pro,256,1,85,no,2000,41,0,0
+167,189,Android,3,P,20 Pro,P 20 Pro,8,2,85,no,2000,62,0,0
+168,168,Android,3,P,30 Lite,P 30 Lite,128,3,83,no,2,63,0,0
+169,150,Android,3,Mate,10 Pro,Mate 10 Pro,128,3,83,no,289,36,0,0
+170,109,Android,3,Nova,3i,Nova 3i,128,3,83,no,387,47,0,0
+171,299,Android,3,Mate,20 Pro,Mate 20 Pro,128,2,85,no,2000,38,0,0
+172,160,Android,3,Mate,10 Pro,Mate 10 Pro,128,4,75,no,312,36,0,0
+173,89,Android,3,Nova,3i,Nova 3i,128,3,83,no,3,47,0,0
+174,649,Android,3,P,50 Pro,P 50 Pro,256,3,83,no,251,68,0,0
+175,600,Android,3,Mate,40 Pro,Mate 40 Pro,256,4,75,no,364,42,0,0
+176,320,Android,3,P,30 Pro,P 30 Pro,256,3,83,no,15,64,0,0
+177,229,Android,3,Nova,7 SE,Nova 7 SE,128,1,85,no,1000,49,0,0
+178,229,Android,3,Mate,20,Mate 20,128,2,85,no,2000,37,0,0
+179,190,Android,3,Mate,20,Mate 20,128,4,75,no,9,37,0,0
+180,419,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,83,no,118,41,0,0
+181,178,Android,3,P,20 Pro,P 20 Pro,128,3,83,no,111,62,0,0
+182,160,Android,3,P,20 Pro,P 20 Pro,128,3,83,no,29,62,0,0
+183,399,Android,3,Mate,20X,Mate 20X,128,0,100,no,348,39,0,0
+184,419,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,83,no,2,41,0,0
+185,299,Android,3,P,40,P 40,128,3,83,no,251,65,0,0
+186,1400,Android,3,Mate,50 Pro,Mate 50 Pro,256,0,100,no,774,43,0,0
+187,428,Android,3,P,30 Pro,P 30 Pro,128,1,85,no,71,64,0,0
+188,100,Android,3,P,30 Lite,P 30 Lite,128,3,83,no,322,63,0,0
+189,130,Android,3,Nova,3i,Nova 3i,128,3,83,no,2,47,0,0
+190,419,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,83,no,1000,41,0,0
+191,300,Android,3,P,40,P 40,128,3,83,no,50,65,0,0
+192,419,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,83,no,1000,41,0,0
+193,699,Android,3,P,50 Pro,P 50 Pro,256,1,85,no,1000,68,0,0
+194,400,Android,3,P,40 Pro,P 40 Pro,256,3,83,no,147,66,0,0
+195,419,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,83,no,52,41,0,0
+196,1398,Android,3,Mate,50 Pro,Mate 50 Pro,256,3,83,no,83,43,0,0
+197,1500,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,1,80,no,48,103,0,1
+198,379,IOS,0,iPhone,XS,iPhone XS,256,2,91,no,2000,110,0,1
+199,1588,IOS,0,iPhone,14 Pro,iPhone 14 Pro,256,0,100,no,195,102,0,1
+200,629,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,195,97,0,1
+201,604,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,256,3,83,no,195,92,0,1
+202,824,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,195,97,0,1
+203,650,IOS,0,iPhone,12,iPhone 12,128,1,85,no,63,94,0,1
+204,428,IOS,0,iPhone,XS Max,iPhone XS Max,256,2,79,no,195,111,0,1
+205,1288,IOS,0,iPhone,14,iPhone 14,256,3,83,no,195,101,0,1
+206,300,IOS,0,iPhone,11,iPhone 11,128,3,87,no,12,91,0,1
+207,1620,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,0,100,no,24,103,0,1
+208,814,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,128,3,83,no,195,97,0,1
+209,217,IOS,0,iPhone,8 Plus,iPhone 8 Plus,64,3,83,no,195,108,0,1
+210,584,IOS,0,iPhone,12,iPhone 12,128,3,83,no,195,94,0,1
+211,819,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,195,97,0,1
+212,1788,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,0,100,no,195,103,0,1
+213,305,IOS,0,iPhone,XS,iPhone XS,64,1,77,no,195,110,0,1
+214,399,IOS,0,iPhone,11,iPhone 11,64,2,72,no,195,91,0,1
+215,189,IOS,0,iPhone,7 Plus,iPhone 7 Plus,128,3,80,no,195,106,0,1
+216,1288,IOS,0,iPhone,14,iPhone 14,256,3,83,no,195,101,0,1
+217,824,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,195,97,0,1
+218,268,IOS,0,iPhone,8 Plus,iPhone 8 Plus,256,3,83,no,195,108,0,1
+219,819,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,256,3,83,no,195,97,0,1
+220,217,IOS,0,iPhone,8,iPhone 8,64,2,73,no,195,107,0,1
+221,1488,IOS,0,iPhone,14 Pro,iPhone 14 Pro,128,0,100,no,195,102,0,1
+222,292,IOS,0,iPhone, XR,iPhone  XR,128,3,80,no,195,90,0,1
+223,154,IOS,0,iPhone,7,iPhone 7,128,3,83,no,195,105,0,1
+224,444,IOS,0,iPhone,11,iPhone 11,128,3,83,no,195,91,0,1
+225,715,IOS,0,iPhone,12 Pro,iPhone 12 Pro,128,3,83,no,195,96,0,1
+226,754,IOS,0,iPhone,12 Pro,iPhone 12 Pro,256,3,83,no,195,96,0,1
+227,814,IOS,0,iPhone,12 Pro Max,iPhone 12 Pro Max,128,3,83,no,195,97,0,1
+228,1688,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,128,0,100,no,195,103,0,1
+229,1049,IOS,0,iPhone,13 Pro,iPhone 13 Pro,256,3,83,no,195,99,0,1
+230,1488,IOS,0,iPhone,14 Pro,iPhone 14 Pro,128,0,100,no,195,102,0,1
+231,1488,IOS,0,iPhone,14 Pro,iPhone 14 Pro,128,0,100,no,195,102,0,1
+232,1588,IOS,0,iPhone,14 Pro,iPhone 14 Pro,256,0,100,no,195,102,0,1
+233,650,IOS,0,iPhone,11 Pro Max,iPhone 11 Pro Max,256,3,80,no,48,92,0,1
+234,1188,IOS,0,iPhone,14,iPhone 14,128,3,83,no,195,101,0,1
+235,1788,IOS,0,iPhone,14 Pro Max,iPhone 14 Pro Max,256,0,100,no,195,103,0,1
+236,481,IOS,0,iPhone,12,iPhone 12,64,3,83,no,195,94,0,1
+237,454,IOS,0,iPhone,XS Max,iPhone XS Max,512,3,83,no,195,111,0,1
+238,232,IOS,0,iPhone,8 Plus,iPhone 8 Plus,256,3,83,no,195,108,0,1
+239,1988,IOS,0,iPhone,14 Pro,iPhone 14 Pro,512,0,100,no,195,102,0,1
+240,1174,IOS,0,iPhone,13 Pro Max,iPhone 13 Pro Max,256,3,83,no,195,100,0,1
+241,186,IOS,0,iPhone,8,iPhone 8,64,4,75,no,195,107,0,1
+242,450,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,3,83,no,60,21,0,0
+243,1588,Android,1,Galaxy Z,Fold 4,Galaxy Z Fold 4,512,1,98,no,35,32,0,0
+244,624,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,86,no,195,22,0,0
+245,1024,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,86,no,195,24,0,0
+246,1800,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,512,0,100,no,11,25,0,0
+247,824,Android,1,Galaxy Z,Fold 3,Galaxy Z Fold 3,256,1,86,no,195,31,0,0
+248,1019,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,2,91,no,195,24,0,0
+249,789,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,2,91,yes,2000,30,1,0
+250,1024,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,86,no,195,24,0,0
+251,1218,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,512,2,91,no,195,24,0,0
+252,1280,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,0,100,no,52,25,0,0
+253,350,Android,1,Galaxy Note,10 Plus,Galaxy Note 10 Plus,256,3,83,no,191,13,0,0
+254,824,Android,1,Galaxy Z,Fold 3,Galaxy Z Fold 3,256,1,86,no,195,31,0,0
+255,968,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,512,1,91,yes,948,30,1,0
+256,1320,Android,1,Galaxy S,23 Ultra,Galaxy S 23 Ultra,256,0,100,no,3000,25,0,0
+257,1218,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,512,1,86,no,195,24,0,0
+258,258,Android,1,Galaxy S,20,Galaxy S 20,128,3,87,no,288,18,0,0
+259,869,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,1,91,yes,2000,30,1,0
+260,350,Android,1,Galaxy S,21,Galaxy S 21,256,3,87,no,0,20,0,0
+261,1024,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,86,no,195,24,0,0
+262,629,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,86,no,2000,22,0,0
+263,329,Android,1,Galaxy Note,10,Galaxy Note 10,256,2,91,no,2000,12,0,0
+264,624,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,86,no,195,22,0,0
+265,590,Android,1,Galaxy A,A73,Galaxy A A73,128,0,100,no,1,11,0,0
+266,875,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,3,83,no,199,24,0,0
+267,743,Android,1,Galaxy S,22,Galaxy S 22,256,1,86,no,195,23,0,0
+268,329,Android,1,Galaxy S,20 FE,Galaxy S 20 FE,256,2,91,no,2000,19,0,0
+269,468,Android,1,Galaxy Note,20 ultra,Galaxy Note 20 ultra,256,3,87,no,948,15,0,0
+270,1024,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,1,86,no,195,24,0,0
+271,593,Android,1,Galaxy A,A73,Galaxy A A73,128,3,83,no,105,11,0,0
+272,1750,Android,1,Fold,4,Fold 4,256,0,100,no,1000,7,0,0
+273,503,Android,1,Galaxy S,21,Galaxy S 21,256,1,85,no,195,20,0,0
+274,250,Android,1,Galaxy Note,9,Galaxy Note 9,128,3,87,no,25,16,0,0
+275,743,Android,1,Galaxy S,22,Galaxy S 22,256,1,85,no,195,23,0,0
+276,508,Android,1,Galaxy S,21,Galaxy S 21,256,1,85,no,11000,20,0,0
+277,550,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,3,83,no,161,21,0,0
+278,922,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,256,3,87,no,195,24,0,0
+279,900,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,256,0,100,yes,47,30,1,0
+280,829,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,1,91,yes,2000,30,1,0
+281,764,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,512,1,85,no,195,22,0,0
+282,503,Android,1,Galaxy S,21,Galaxy S 21,256,1,85,no,195,20,0,0
+283,1548,Android,1,Galaxy Z,Fold 4,Galaxy Z Fold 4,512,1,91,yes,948,32,1,0
+284,558,Android,1,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,2,91,no,195,29,0,0
+285,534,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,195,21,0,0
+286,700,Android,1,Galaxy Z,Flip 4,Galaxy Z Flip 4,128,3,83,no,38,30,0,0
+287,1099,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,512,2,91,no,2000,24,0,0
+288,498,Android,1,Galaxy S,21,Galaxy S 21,256,2,91,no,195,20,0,0
+289,1499,Android,1,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,1,85,no,2000,32,0,0
+290,578,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,11000,21,0,0
+291,624,Android,1,Galaxy S,21 Ultra,Galaxy S 21 Ultra,256,1,85,no,195,22,0,0
+292,558,Android,1,Galaxy Z,Flip 3,Galaxy Z Flip 3,256,1,85,no,195,29,0,0
+293,1499,Android,1,Galaxy Z,Fold 4,Galaxy Z Fold 4,256,1,91,yes,2000,32,1,0
+294,534,Android,1,Galaxy S,21 Plus,Galaxy S 21 Plus,256,1,85,no,195,21,0,0
+295,1218,Android,1,Galaxy S,22 Ultra,Galaxy S 22 Ultra,512,1,85,no,195,24,0,0
+296,328,Android,2,Reno,7 Z,Reno 7 Z,128,2,91,no,2000,83,0,0
+297,548,Android,2,Reno,7 Pro,Reno 7 Pro,256,1,91,yes,948,82,1,0
+298,549,Android,2,Find,X5 Pro,Find X5 Pro,256,2,91,no,2000,6,0,0
+299,480,Android,2,Reno,7 Pro,Reno 7 Pro,256,3,83,no,60,82,0,0
+300,450,Android,2,Reno,10x Zoom,Reno 10x Zoom,256,2,91,no,195,72,0,0
+301,255,Android,2,Oppo A,76,Oppo A 76,128,0,100,no,35,56,0,0
+302,543,Android,2,Find,X3 Pro,Find X3 Pro,256,2,91,no,195,5,0,0
+303,180,Android,2,Oppo A,53,Oppo A 53,128,2,91,no,545,54,0,0
+304,520,Android,2,Find,X3 Pro,Find X3 Pro,256,3,83,no,78,5,0,0
+305,440,Android,2,Reno,7 Z,Reno 7 Z,128,0,100,no,22,83,0,0
+306,690,Android,2,Reno,8,Reno 8,256,3,83,no,26,84,0,0
+307,228,Android,2,Reno,5Z,Reno 5Z,128,1,85,no,11000,79,0,0
+308,464,Android,2,Reno,5 Pro,Reno 5 Pro,256,1,85,no,195,78,0,0
+309,1098,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,3000,5,0,0
+310,1098,Android,2,Find,N2 Flip,Find N2 Flip,256,1,85,no,3000,0,0,0
+311,1199,Android,2,Find,N2 Flip,Find N2 Flip,256,0,100,yes,2,0,1,0
+312,289,Android,2,Reno,3 Pro,Reno 3 Pro,256,2,91,no,2000,75,0,0
+313,442,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,195,80,0,0
+314,480,Android,2,Reno,7 Z,Reno 7 Z,128,0,100,no,87,83,0,0
+315,118,Android,2,Oppo A,X5S,Oppo A X5S,64,1,85,no,11000,59,0,0
+316,240,Android,2,Reno,3,Reno 3,128,3,83,no,9,74,0,0
+317,268,Android,2,Reno,10X Zoom,Reno 10X Zoom,256,1,85,no,11000,71,0,0
+318,789,Android,2,Reno,8 pro,Reno 8 pro,256,1,85,no,1000,86,0,0
+319,248,Android,2,Reno,4 Pro,Reno 4 Pro,256,2,91,no,2000,76,0,0
+320,279,Android,2,Reno,4 Pro,Reno 4 Pro,256,1,85,no,2000,76,0,0
+321,588,Android,2,Reno,8T,Reno 8T,256,0,100,no,10,87,0,0
+322,180,Android,2,Oppo A,53,Oppo A 53,128,2,91,no,545,54,0,0
+323,550,Android,2,Find,X3 Pro,Find X3 Pro,256,1,91,yes,5,5,1,0
+324,548,Android,2,Find,X3 Pro,Find X3 Pro,256,1,91,yes,11000,5,1,0
+325,818,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,11000,5,0,0
+326,399,Android,2,Reno,7 Z,Reno 7 Z,128,0,100,no,53,83,0,0
+327,380,Android,2,Reno,5 Pro,Reno 5 Pro,256,3,90,no,39,78,0,0
+328,628,Android,2,Reno,7,Reno 7,256,1,85,no,3000,81,0,0
+329,800,Android,2,Find,X3 Pro,Find X3 Pro,256,2,91,yes,0,5,1,0
+330,418,Android,2,Reno,6 Pro,Reno 6 Pro,256,1,85,no,11000,80,0,0
+331,520,Android,2,Reno,7 Pro,Reno 7 Pro,256,3,90,no,1,82,0,0
+332,549,Android,2,Reno,7 Pro,Reno 7 Pro,256,1,85,no,1000,82,0,0
+333,579,Android,2,Find,X3 Pro,Find X3 Pro,256,1,91,yes,2000,5,1,0
+334,549,Android,2,Find,X3 Pro,Find X3 Pro,256,1,85,no,2000,5,0,0
+335,499,Android,2,Reno,8T,Reno 8T,128,0,100,yes,2000,87,1,0
+336,629,Android,2,Reno,8T,Reno 8T,256,0,100,yes,2000,87,1,0
+337,428,Android,2,Find,X2 Pro ,Find X2 Pro ,512,1,85,no,3000,4,0,0
+338,369,Android,3,P,40,P 40,128,2,91,no,2000,65,0,0
+339,248,Android,3,Mate,Pad 10.4 ,Mate Pad 10.4 ,64,1,85,no,3000,44,0,0
+340,280,Android,3,Mate,30,Mate 30,128,3,90,no,80,40,0,0
+341,280,Android,3,Mate,20,Mate 20,128,3,87,no,0,37,0,0
+342,170,Android,3,Mate,10 Pro,Mate 10 Pro,128,3,92,no,9,36,0,0
+343,398,Android,3,Mate,30 Pro,Mate 30 Pro,256,1,85,no,11000,41,0,0
+344,399,Android,3,Mate,30 Pro,Mate 30 Pro,256,1,85,no,1000,41,0,0
+345,500,Android,3,P,30 Pro,P 30 Pro,256,1,85,no,0,64,0,0
+346,189,Android,3,P,20 Pro,P 20 Pro,128,3,87,no,2000,62,0,0
+347,160,Android,3,Honor,8c MAX,Honor 8c MAX,6,3,83,no,73,34,0,0
+348,229,Android,3,Mate,20,Mate 20,128,2,91,no,2000,37,0,0
+349,288,Android,3,P,40,P 40,128,2,91,no,195,65,0,0
+350,110,Android,3,Nova,3i,Nova 3i,128,3,87,no,0,47,0,0
+351,170,Android,3,P,20 Pro,P 20 Pro,128,3,87,no,160,62,0,0
+352,40,Android,3,Nova,2i,Nova 2i,64,3,87,no,3,46,0,0
+353,159,Android,3,P,20,P 20,128,1,85,no,2000,61,0,0
+354,209,Android,3,P,20 Pro,P 20 Pro,128,2,91,no,2000,62,0,0
+355,229,Android,3,Nova,5 T,Nova 5 T,128,2,91,no,2000,48,0,0
+356,300,Android,3,P,30 Pro,P 30 Pro,256,3,87,no,0,64,0,0
+357,179,Android,3,Mate,10 Pro,Mate 10 Pro,128,2,91,no,2000,36,0,0
+358,229,Android,3,Nova,5 T,Nova 5 T,128,1,85,no,2000,48,0,0
+359,369,Android,3,P,40,P 40,128,2,91,no,2000,65,0,0
+360,269,Android,3,Mate,20 Pro,Mate 20 Pro,128,1,85,no,2000,38,0,0
+361,219,Android,3,P,20 Pro,P 20 Pro,128,2,91,no,2000,62,0,0
+362,40,Android,3,P,20 Pro,P 20 Pro,128,4,68,no,37,62,0,0
+363,369,Android,3,Mate,30 Pro,Mate 30 Pro,256,1,85,no,2000,41,0,0
+364,180,Android,3,P,20 Pro,P 20 Pro,128,3,83,no,14,62,0,0
+365,949,Android,3,Mate,50 Pro,Mate 50 Pro,256,3,87,no,252,43,0,0
+366,75,Android,3,Y,6 Pro,Y 6 Pro,32,3,87,no,4,89,0,0
+367,190,Android,3,Mate,20 Pro,Mate 20 Pro,128,3,87,no,85,38,0,0
+368,170,Android,3,Honor,8c,Honor 8c,32,1,85,no,7,33,0,0
+369,1000,Android,3,Mate,20X,Mate 20X,256,3,87,no,173,39,0,0
+370,420,Android,3,Mate,20X,Mate 20X,128,3,87,no,61,39,0,0
+371,355,Android,3,P,30 Pro,P 30 Pro,256,3,87,no,1000,64,0,0
+372,209,Android,3,P,20 Pro,P 20 Pro,128,2,91,no,2000,62,0,0
+373,518,Android,3,Mate,Pad Pro ,Mate Pad Pro ,256,1,85,no,3000,45,0,0
+374,199,Android,3,Nova,7i,Nova 7i,128,1,85,no,2000,50,0,0
+375,750,Android,3,P,40 pro plus,P 40 pro plus,256,3,87,no,171,67,0,0
+376,230,Android,3,Mate,20 Pro,Mate 20 Pro,128,3,87,no,5,38,0,0
+377,1100,Android,3,Mate,50 Pro,Mate 50 Pro,256,3,87,no,107,43,0,0
+378,389,Android,3,Mate,30 Pro,Mate 30 Pro,256,3,87,no,411,41,0,0
+379,100,Android,3,P,10,P 10,64,3,87,no,52,60,0,0
+380,350,Android,3,P,40 Pro,P 40 Pro,256,2,91,no,5,66,0,0
+381,1148,Android,3,Mate,50 Pro,Mate 50 Pro,256,1,91,yes,3000,43,1,0
