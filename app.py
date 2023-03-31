@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import numpy as np
 from pycaret.regression import load_model 
-
+from sklearn.preprocessing import LabelEncoder
 
 
 #Load data
@@ -50,7 +50,7 @@ phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhon
        'Mate Pad Pro ', 'Nova 7i', 'P 40 pro plus', 'P 10'])
 capacity_st = st.sidebar.selectbox('Storage Capacity', ['6', '8','32','64','128','256','512'])
 condition_st = st.sidebar.selectbox('Physical Condition',['Heavily used', 'Brand new', 'Lightly used', 'Well used', 'Like new'])
-battery_st = st.sidebar.selectbox('Battery Health',[75, 100,  85,  83,  98,  77,  73,  80,  91,  79,  87,  72,  86, 90,  92,  68])
+battery_st = st.sidebar.selectbox('Battery Health',[68, 72, 73, 75, 77,79, 80,  83, 85, 87, 98,   86, 90, 91, 92, 93, 100])
 warranty_st = st.sidebar.selectbox('Manufacturing Warranty',['yes', 'no'])
 reviews_st = st.sidebar.selectbox('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
 
@@ -62,26 +62,34 @@ st.write(input_df)
 # replace string values with encoded values
 input_df['os'] = input_df['os'].map({'IOS': 0, 'Android': 1})
 input_df['brand'] = input_df['brand'].map({'apple':0, 'samsung':1, 'oppo':2, 'huawei': 3}) 
-input_df = input_df.merge(df[['phone', 'phone_num']], on='phone', how='left')
-#input_df['phone'] = input_df['phone'].map(df.set_index('phone')['phone_num'])
+
+
+# instantiate the encoder
+encoder = LabelEncoder()
+
+# fit the encoder to the 'phone' column
+encoder.fit(input_df['phone'])
+
+# transform the 'phone' column using the fitted encoder
+input_df['phone'] = encoder.transform(input_df['phone'])
+
+
 input_df['condition'] = input_df['condition'].map({'Brand new':0, 'Like new':1, 'Lightly used':2, 'Well used': 3, "Heavily used":4}) 
 input_df['warranty'] = input_df['warranty'].map({'no':0, 'yes':1}) 
 input_df['reviews'] = input_df['reviews'].map({'0-100':90,'101-1000':1000,'1001-2000':2000,'2001-5000':3000})
 
 
-#editing input_df so can fit into model
-input_df = input_df.drop(['phone'], axis=1)
-#rename phone_num to phone
-input_df = input_df.rename(columns={'phone_num': 'phone'})
 #dropnain capacity, convert type to int
 input_df = input_df[pd.to_numeric(input_df['capacity'], errors='coerce').notnull()]
 input_df['capacity'] = input_df['capacity'].astype(int)
 
 
+
 # load the saved model
-model = load_model('finalized_rf_model')
+model = load_model('rfmodel')
+
 # make prediction
-prediction = model.predict(input_df[['os','brand','capacity','battery','warranty','reviews']])
+prediction = model.predict(input_df)
 
 # display the prediction
 st.subheader('Prediction')
