@@ -40,8 +40,8 @@ st.sidebar.subheader('Select phone features')
 # create sidebar widgets
 #create a streamlit variable that stores the features and options
 os_st = st.sidebar.selectbox('Operating System',['IOS','Android'])
-brand_st = st.selectbox('Brand',['apple','samsung','oppo','huawei'])
-phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhone 11 pro', 'iPhone 13 Pro',
+brand_st = st.sidebar.selectbox('Brand',['apple','samsung','oppo','huawei'])
+phone_st = st.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhone 11 pro', 'iPhone 13 Pro',
        'iPhone X', 'iPhone 11 Pro Max', 'iPhone 14 Pro Max', 'iPhone  XR',
        'iPhone 13 Pro Max', 'iPhone XS', 'iPhone 7 Plus', 'iPhone 4',
        'iPhone 12', 'iPhone XS Max', 'iPhone 12 Mini', 'iPhone 12 Pro',
@@ -70,7 +70,7 @@ phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhon
        'Mate Pad Pro ', 'Nova 7i', 'P 40 pro plus', 'P 10'])
 capacity_st = st.sidebar.select_slider('Storage Capacity', ['6', '8','32','64','128','256','512'])
 condition_st = st.sidebar.radio('Physical Condition',['Heavily used', 'Brand new', 'Lightly used', 'Well used', 'Like new'])
-battery_st = st.select_slider('Battery Health',[68, 72, 73, 75, 77, 79, 80, 83, 85, 86, 87, 90, 91, 92, 98, 100])
+battery_st = st.sidebar.select_slider('Battery Health',[68, 72, 73, 75, 77, 79, 80, 83, 85, 86, 87, 90, 91, 92, 98, 100])
 warranty_st = st.sidebar.radio('Manufacturing Warranty',['yes', 'no'])
 reviews_st = st.sidebar.radio('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
 
