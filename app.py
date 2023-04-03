@@ -70,9 +70,9 @@ phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhon
        'Mate Pad Pro ', 'Nova 7i', 'P 40 pro plus', 'P 10'])
 capacity_st = st.sidebar.selectbox('Storage Capacity', ['6', '8','32','64','128','256','512'])
 condition_st = st.sidebar.selectbox('Physical Condition',['Heavily used', 'Brand new', 'Lightly used', 'Well used', 'Like new'])
-battery_st = st.sidebar.selectbox('Battery Health',[68, 72, 73, 75, 77, 79, 80, 83, 85, 86, 87, 90, 91, 92, 98, 100])
-warranty_st = st.sidebar.selectbox('Manufacturing Warranty',['yes', 'no'])
-reviews_st = st.sidebar.selectbox('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
+battery_st = st.select_slider('Battery Health',[68, 72, 73, 75, 77, 79, 80, 83, 85, 86, 87, 90, 91, 92, 98, 100])
+warranty_st = st.radio('Manufacturing Warranty',['yes', 'no'])
+reviews_st = st.radio('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
 
 # Generate prediction based on user selected attributes
 # Create a dataframe to store streamlit variables created above, newdfcolumns: streamlit variables
