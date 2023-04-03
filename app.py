@@ -11,7 +11,27 @@ df = pd.read_csv('data_to_map.csv')
 
 # set app configuration
 st.set_page_config(page_title='Phone Price App', page_icon='📱', layout='wide', initial_sidebar_state='expanded')
-    
+
+#set background imagr
+def set_bg_hack_url():
+    '''
+    A function to set background image from a url.
+    '''
+    image_url = "https://thedigitaly.s3.us-east-2.amazonaws.com/img/2021/07/01013829/how-to-sell-old-phone-at-best-price.jpeg"
+    st.markdown(
+        f"""
+        <style>
+            .stApp {{
+                background-image: url('{image_url}');
+                background-size: cover;
+            }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+set_bg_hack_url()
+
+
 #set app title
 st.title('📱Phone Price App')
     
