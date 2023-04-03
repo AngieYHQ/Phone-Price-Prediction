@@ -17,7 +17,7 @@ def set_bg_hack_url():
     '''
     A function to set background image from a url.
     '''
-    image_url = "https://media.discordapp.net/attachments/1008571080300052482/1092270298583281735/Jbax89_Singapore_aunties_and_uncles_buying_and_selling_phones_981d3aa7-fbce-4dbc-8ade-c8774a26f073.png"
+    image_url = "https://thedigitaly.s3.us-east-2.amazonaws.com/img/2021/07/01013829/how-to-sell-old-phone-at-best-price.jpeg"
     st.markdown(
         f"""
         <style>
