@@ -39,8 +39,8 @@ st.title('📱Phone Price App')
 st.sidebar.subheader('Select phone features')
 # create sidebar widgets
 #create a streamlit variable that stores the features and options
-os_st = st.selectbox('Operating System',['IOS','Android'])
-brand_st = st.sidebar.selectbox('Brand',['apple','samsung','oppo','huawei'])
+os_st = st.sidebar.selectbox('Operating System',['IOS','Android'])
+brand_st = st.selectbox('Brand',['apple','samsung','oppo','huawei'])
 phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhone 11 pro', 'iPhone 13 Pro',
        'iPhone X', 'iPhone 11 Pro Max', 'iPhone 14 Pro Max', 'iPhone  XR',
        'iPhone 13 Pro Max', 'iPhone XS', 'iPhone 7 Plus', 'iPhone 4',
