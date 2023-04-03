@@ -39,7 +39,7 @@ st.title('📱Phone Price App')
 st.sidebar.subheader('Select phone features')
 # create sidebar widgets
 #create a streamlit variable that stores the features and options
-os_st = st.sidebar.selectbox('Operating System',['IOS','Android'])
+os_st = st.selectbox('Operating System',['IOS','Android'])
 brand_st = st.sidebar.selectbox('Brand',['apple','samsung','oppo','huawei'])
 phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhone 11 pro', 'iPhone 13 Pro',
        'iPhone X', 'iPhone 11 Pro Max', 'iPhone 14 Pro Max', 'iPhone  XR',
@@ -68,11 +68,11 @@ phone_st = st.sidebar.selectbox('Phone Model', ['iPhone 11', 'iPhone 14', 'iPhon
        'Reno 8 pro', 'Reno 8T', 'Find X2 Pro ', 'Mate Pad 10.4 ',
        'Honor 8c MAX', 'Nova 2i', 'P 20', 'Y 6 Pro', 'Honor 8c',
        'Mate Pad Pro ', 'Nova 7i', 'P 40 pro plus', 'P 10'])
-capacity_st = st.sidebar.selectbox('Storage Capacity', ['6', '8','32','64','128','256','512'])
-condition_st = st.sidebar.selectbox('Physical Condition',['Heavily used', 'Brand new', 'Lightly used', 'Well used', 'Like new'])
+capacity_st = st.sidebar.select_slider('Storage Capacity', ['6', '8','32','64','128','256','512'])
+condition_st = st.sidebar.radio('Physical Condition',['Heavily used', 'Brand new', 'Lightly used', 'Well used', 'Like new'])
 battery_st = st.select_slider('Battery Health',[68, 72, 73, 75, 77, 79, 80, 83, 85, 86, 87, 90, 91, 92, 98, 100])
-warranty_st = st.radio('Manufacturing Warranty',['yes', 'no'])
-reviews_st = st.radio('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
+warranty_st = st.sidebar.radio('Manufacturing Warranty',['yes', 'no'])
+reviews_st = st.sidebar.radio('Number of Seller Reviews',['0-100','101-1000','1001-2000','2001-5000'])
 
 # Generate prediction based on user selected attributes
 # Create a dataframe to store streamlit variables created above, newdfcolumns: streamlit variables
