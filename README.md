@@ -1,5 +1,3 @@
-# DAI Capstone Project 
-
 # Phone Sale Price Recommender
 
 # Background:
