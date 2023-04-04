@@ -21,59 +21,22 @@ Data used in the analysis consists of phone listing details and seller reviews s
  
 
 # Data Dictionary:
-- Dataset name: carousell.csv
-This dataset contains all the scrapped data of phone listing on Carousell.
+Dataset name: carousell.csv
+- This dataset contains all the scrapped data of phone listing on Carousell.
  
-Feature  	Type Dataset  	Description
-Title		object		listing title
-Price		int64		Listing price
-Model		object		Phone model
-Capacity	int64		Phone built in storage capacity
-Condition	object		physical condition rating
-Battery		int64		battery health of the phone
-Warranty	object		manufacturing warranty validity
-Reviews	int64		number of seller reviews
-Time_posted	int64		listing time stamp
-Color		object		phone color 
-Description	object		listing description 
-Username	object		seller username
+<img width="489" alt="image" src="https://user-images.githubusercontent.com/125956661/229686211-d748b985-21e0-46c0-9b90-8199c5a54161.png">
 
+Dataset name: data382.csv
+- This dataset contains all the cleaned data of carousell.csv for modeling prediction.
+ 
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/125956661/229686071-0ed84a0e-4ebf-4505-a8dd-1e47d0be6ff9.png">
 
-- Dataset name: data382.csv
-This dataset contains all the cleaned data of carousell.csv for modeling prediction.
  
-Feature  		Type Dataset  	Description
-Price			int64		Listing price
-Os			object		Operating system of the phone
-Brand			object		Phone brand
-Series			object		Phone series
-Model			object		Phone model
-Phone 			object		Phone series & model
-Capacity		int64		Phone built in storage capacity
-Condition		object		physical condition rating
-Battery			int64		battery health of the phone
-Warranty		int64		manufacturing warranty validity
-Reviews		int64		number of seller reviews
+Dataset name: data_to_map.csv
+- This dataset contains all the cleaned data of data382.csv with encoded columns as a reference to user input for model prediction.
  
-- Dataset name: data_to_map.csv
-This dataset contains all the cleaned data of data382.csv with encoded columns as a reference to user input for model prediction.
- 
-Feature  		Type Dataset  	Description
-Price			int64		Listing price
-Os			object		Operating system of the phone
-Brand			object		Phone brand
-Series			object		Phone series
-Model			object		Phone model
-Phone 			object		Phone series & model
-Capacity		int64		Phone built in storage capacity
-Condition		object		physical condition rating
-Battery			int64		battery health of the phone
-Warranty		int64		manufacturing warranty validity
-Reviews		int64		number of seller reviews
-Os_num		int64		Operating system of the phone numeric data
-Phone_num 		int64		Phone series & model numeric data
-Condition_num	int64		physical condition rating numeric data
-Warranty_num	object		manufacturing warranty validity numeric data
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/125956661/229686118-18183f22-1e02-49f2-b549-57fd7c1bf80d.png">
+
 
 # Key takeaways from the project:
 Recommender deployed successfully on streamlit.io(link).
