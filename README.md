@@ -39,7 +39,8 @@ Dataset name: data_to_map.csv
 
 
 # Key takeaways from the project:
-Recommender deployed successfully on streamlit.io(link).
+Recommender deployed successfully on streamlit.io.
+- url:   https://angieyhq-phone-price-prediction-app-w02apw.streamlit.app
 
 The recommender is a fuss free way to determine the recommended sale price by selecting the phone features on the app. The recommender uses a XGBoost Model with a model accuracy of 84%.
 With the recommended price, users are enabled to come out with pricing and negotiating strategies to maximize their revenue and profit.
